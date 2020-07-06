@@ -67,6 +67,3 @@ You are well on your way to becoming a programmer and Excel master! In this home
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
-=======
-# VBA-challenge
->>>>>>> cc161366d9827c5d8fab1329b68d2b30cdd21cda
