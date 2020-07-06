@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VBA Homework - The VBA of Wall Street
 
 ## Background
